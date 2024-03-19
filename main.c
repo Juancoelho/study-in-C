@@ -12,7 +12,7 @@ int main (){
 
     res = num + num2;
 
-    printf("o valor entre %d e %d ‚ %d", num, num2, res);
+    printf("o valor entre %d e %d é %d", num, num2, res);
 
     return 0; 
 
