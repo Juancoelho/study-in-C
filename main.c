@@ -4,16 +4,16 @@ int main (){
    
     int num, num2, res;
 
-    printf("digite uma numero: ");
+    printf("type a number: ");
     scanf("%d", &num);
 
-    printf("digite outro numero");
+    printf("type another number");
     scanf("%d", &num2);
 
     res = num + num2;
 
-    printf("o valor entre %d e %d é %d", num, num2, res);
+    printf("the value between %d and %d is %d", num, num2, res);
 
     return 0; 
 
-}
+} 
